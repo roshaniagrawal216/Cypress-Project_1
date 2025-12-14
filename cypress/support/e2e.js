@@ -15,3 +15,7 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+
+beforeEach(function(){
+    cy.log('I am inside e2e.js')
+})
