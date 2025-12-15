@@ -13,7 +13,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^15.7.1"
+    "cypress": "^15.7.1",
+    "cypress-downloadfile": "^1.2.4"
   },
   "devDependencies": {
     "cypress-file-upload": "^5.0.8"
